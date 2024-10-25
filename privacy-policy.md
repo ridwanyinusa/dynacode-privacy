@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: January 30, 2024</p>
+<p>Last updated: October 25, 2024</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 <h2>Interpretation and Definitions</h2>
@@ -58,6 +58,21 @@
 <p>The Company may use Personal Data for the following purposes:</p>
 <ul>
 <li>
+  <p> AdMob Advertising
+Our app uses AdMob by Google as a third-party advertising provider. AdMob may collect information from your device for purposes including, but not limited to, ad personalization, tracking ad impressions, and improving ad performance. Data collected may include device identifiers, IP address, information about interactions with ads, and approximate location data.
+
+Why We Collect Data
+This data helps us deliver relevant ads to our users, understand ad performance, and ensure a smooth advertising experience. Personalized ads use data to display content that matches your interests, while non-personalized ads use only general data.
+
+How Data is Shared
+AdMob may share collected data with Google services and third-party advertisers for analytics, targeting, and ad-related purposes, as required by Google’s advertising policies.
+
+Your Choices
+You have options to manage or opt out of ad personalization. For more information, visit Google’s Ads Settings or adjust ad preferences directly from your Google Account.
+
+User Rights
+If you have questions about how your data is collected or want to exercise rights such as accessing, modifying, or deleting your data, please contact us at info@royinnov.com.
+ </p>
 <p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
 </li>
 <li>
