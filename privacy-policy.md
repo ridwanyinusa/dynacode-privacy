@@ -58,16 +58,16 @@
 <p>The Company may use Personal Data for the following purposes:</p>
 <ul>
 <li>
-  <p> AdMob Advertising
+  <p> <strong>AdMob Advertising</strong>
 Our app uses AdMob by Google as a third-party advertising provider. AdMob may collect information from your device for purposes including, but not limited to, ad personalization, tracking ad impressions, and improving ad performance. Data collected may include device identifiers, IP address, information about interactions with ads, and approximate location data.
 
-Why We Collect Data
+<strong>Why We Collect Data</strong>
 This data helps us deliver relevant ads to our users, understand ad performance, and ensure a smooth advertising experience. Personalized ads use data to display content that matches your interests, while non-personalized ads use only general data.
 
-How Data is Shared
+<strong>How Data is Shared</strong>
 AdMob may share collected data with Google services and third-party advertisers for analytics, targeting, and ad-related purposes, as required by Google’s advertising policies.
 
-Your Choices
+<strong>Your Choices</strong>
 You have options to manage or opt out of ad personalization. For more information, visit Google’s Ads Settings or adjust ad preferences directly from your Google Account.
 
 User Rights
